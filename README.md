@@ -9,7 +9,7 @@
 
 ## ⚡️Talking about Personal Stuffs:
 
-👩‍💻 : I am passionate self-taught Software Engineering student from Palestine.🇵🇸
+👩‍💻 : I am passionate self-taught Software Engineering from Palestine.🇵🇸
 
 ✨: I am Junior Flutter Devloper & Senior UXUI Designer
 
