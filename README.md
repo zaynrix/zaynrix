@@ -4,6 +4,9 @@
 <img src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif" width="500px">
 
 
+![](https://komarev.com/ghpvc/?username=zaynrix)
+
+
 ## ⚡️Talking about Personal Stuffs:
 
 👩‍💻 : I am passionate self-taught Software Engineering student from Palestine.🇵🇸
