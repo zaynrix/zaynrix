@@ -11,7 +11,7 @@
 
 👩‍💻 : I am passionate self-taught Software Engineering from Palestine.🇵🇸
 
-✨: I am Junior Flutter Devloper & Senior UXUI Designer
+✨: I am Flutter Devloper & UXUI Designer
 
 🛸: I love exploring new tech stack and building cool stuffs.
 
