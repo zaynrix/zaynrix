@@ -7,22 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=zaynrix)
 
 
-## ⚡️Talking about Personal Stuffs:
-
-👩‍💻 : I am passionate self-taught Software Engineering from Palestine, Living in Germany.🇵🇸
-
-✨: I am Flutter Devloper & UXUI Designer
-
-🛸: I love exploring new tech stack and building cool stuffs.
-
-🙋🏼‍♀️: I love attending Hackathons, meetups & tech events.
-
-🌱: Challenges I participated in :
-
-     -#30daysofflutter
-     
-     -#100daysofcode
-
 ### Languages and Tools
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
