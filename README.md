@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 <h1> Hi There, I am Yahya Abunada .<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 </h1>
 
@@ -14,12 +16,7 @@
 
 #
 <!--  -->
-## 💌 How to reach me:
 👉 : yahya.m.abunada@gmail.com
-
-👉 : zayns1914@gmail.com
-
-
 
 
 ## 🙌 Find me at :
