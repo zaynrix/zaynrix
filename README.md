@@ -7,14 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=zaynrix)
 
 
-### Languages and Tools
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Node” height="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-#
 <!--  -->
 👉 : yahya.m.abunada@gmail.com
 
